@@ -1,0 +1,15 @@
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\bin\Debug\net5.0\Weather_Station.Domain.deps.json
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\bin\Debug\net5.0\Weather_Station.Domain.runtimeconfig.json
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\bin\Debug\net5.0\Weather_Station.Domain.runtimeconfig.dev.json
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\bin\Debug\net5.0\Weather_Station.Domain.dll
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\bin\Debug\net5.0\Weather_Station.Domain.pdb
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\obj\Debug\net5.0\Weather_Station.Domain.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\obj\Debug\net5.0\Weather_Station.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\obj\Debug\net5.0\Weather_Station.Domain.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\obj\Debug\net5.0\Weather_Station.Domain.AssemblyInfo.cs
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\obj\Debug\net5.0\Weather_Station.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\obj\Debug\net5.0\Weather_Station.Domain.dll
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\obj\Debug\net5.0\ref\Weather_Station.Domain.dll
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\obj\Debug\net5.0\Weather_Station.Domain.pdb
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\obj\Debug\net5.0\Weather_Station.Domain.genruntimeconfig.cache
+C:\Users\Luis\Desktop\API\Weather_Station\Weather_Station.Domain\bin\Debug\net5.0\ref\Weather_Station.Domain.dll
